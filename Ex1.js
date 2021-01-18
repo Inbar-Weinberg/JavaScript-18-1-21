@@ -1,4 +1,5 @@
-prompt("Question 1")
+"use strict";
+alert("Question 1")
 let x = Number(prompt("Insert the first number"));
 let y = Number(prompt("Insert the second number"));
 
